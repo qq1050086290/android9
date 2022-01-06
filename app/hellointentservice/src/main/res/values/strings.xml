@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloIntentService</string>
+    <string name="button01">当前时间</string>
+</resources>

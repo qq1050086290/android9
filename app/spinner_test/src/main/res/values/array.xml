@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner01">
+        <item>身份证</item>
+        <item>学生证</item>
+        <item>驾驶证</item>
+        <item>出生证</item>
+        <item>结婚证</item>
+    </string-array>
+
+    <string-array name="spinner02">
+        <item>幼儿园</item>
+        <item>小学生</item>
+        <item>初中生</item>
+        <item>高中生</item>
+        <item>大学生</item>
+    </string-array>
+
+    <string-array name="listView01">
+        <item>室内</item>
+        <item>室外</item>
+        <item>会议室</item>
+    </string-array>
+
+</resources>

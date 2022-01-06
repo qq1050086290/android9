@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProtectedEye</string>
+    <string name="title">保护视力</string>
+    <string name="text">应用运行1分钟，请注意休息！</string>
+</resources>

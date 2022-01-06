@@ -1,0 +1,25 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "android9"
+include ':app'
+include ':app:mediaplayer'
+include ':app:mediaplayer:android_10_1'
+include ':app:mediaplayer02'
+include ':app:soundpool01'
+include ':app:videoview01'
+include ':app:hellointentservice'
+include ':app:helloservice'
+include ':app:hellobinder'
+include ':app:protectedeye'
+include ':app:httpurlconnectionactivity'
+include ':app:httpclientconnection'
+include ':app:webtest01'
+include ':app:weather'
+include ':app:spinner_test'
+include ':app:notification_build'

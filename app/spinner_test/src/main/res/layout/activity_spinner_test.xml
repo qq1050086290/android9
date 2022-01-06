@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+        <TableRow
+            android:id="@+id/tableRow01">
+            <TextView
+                android:id="@+id/card_type"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="证件类型："/>
+            <Spinner
+                android:id="@+id/spinner01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:entries="@array/spinner01" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow02">
+            <TextView
+                android:id="@+id/max_student"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="最高学历：" />
+            <Spinner
+                android:id="@+id/spinner02"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow03">
+            <TextView
+                android:id="@+id/surround"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="情景模式：" />
+            <ListView
+                android:id="@+id/listView01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

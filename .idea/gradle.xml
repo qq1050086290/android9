@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/hellobinder" />
+            <option value="$PROJECT_DIR$/app/hellointentservice" />
+            <option value="$PROJECT_DIR$/app/helloservice" />
+            <option value="$PROJECT_DIR$/app/httpclientconnection" />
+            <option value="$PROJECT_DIR$/app/httpurlconnectionactivity" />
+            <option value="$PROJECT_DIR$/app/mediaplayer" />
+            <option value="$PROJECT_DIR$/app/mediaplayer/android_10_1" />
+            <option value="$PROJECT_DIR$/app/mediaplayer02" />
+            <option value="$PROJECT_DIR$/app/notification_build" />
+            <option value="$PROJECT_DIR$/app/protectedeye" />
+            <option value="$PROJECT_DIR$/app/soundpool01" />
+            <option value="$PROJECT_DIR$/app/spinner_test" />
+            <option value="$PROJECT_DIR$/app/videoview01" />
+            <option value="$PROJECT_DIR$/app/weather" />
+            <option value="$PROJECT_DIR$/app/webtest01" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

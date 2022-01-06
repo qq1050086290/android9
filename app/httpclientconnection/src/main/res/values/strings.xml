@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HttpClientConnection</string>
+    <string name="button">发送GET请求</string>
+</resources>
